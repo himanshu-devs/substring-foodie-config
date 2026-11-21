@@ -1,0 +1,8 @@
+server:
+  port: 9099
+
+info:
+  app:
+    name: "Food Service"
+    description: "This is Food Service for Category and their items"
+    version: "1.0 Testing"
